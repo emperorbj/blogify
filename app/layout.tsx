@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
-
+// for SEO performance
 export const metadata: Metadata = {
   title: "blogger",
   description: "best blog app for creators",
